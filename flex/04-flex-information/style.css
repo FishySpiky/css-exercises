@@ -21,11 +21,9 @@ img {
 }
 
 .description {
-  display: flex;
-  width: 200px;
+  max-width: 200px;
   height: auto;
   flex-wrap: wrap;
-  justify-content: space-between;
   justify-content: center;
 }
 
