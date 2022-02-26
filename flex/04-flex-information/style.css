@@ -21,9 +21,12 @@ img {
 }
 
 .description {
+  display: flex;
+  align-items: center;
   width: 200px;
   height: auto;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 /* do not edit this footer */
