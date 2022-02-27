@@ -24,6 +24,7 @@ body {
   display: flex;
   align-items: flex-start;
   padding: 15px;
+  flex-wrap: wrap;
 }
 
 .icon {
@@ -68,4 +69,9 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 20px;
 }
