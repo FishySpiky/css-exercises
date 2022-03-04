@@ -33,12 +33,6 @@ input {
   background-color: #eeeeee;
 }
 
-.right-links {
-  align-self: flex-end;
-}
-
-.footer,
-.header {
-  padding: 15px;
-  justify-content: space-between;
+u1 {
+  list-style-type: none;
 }
