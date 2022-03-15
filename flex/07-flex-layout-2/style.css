@@ -45,7 +45,7 @@ body {
 
 .container {
   display: flex;
-  flex: 1 1 auto;
+  flex: 1;
 }
 
 .content {
@@ -54,7 +54,7 @@ body {
   flex-wrap: wrap;
 }
 
-.sidebar a {
+a {
   text-decoration: none;
   color: white;
   font-size: 24px;
@@ -64,4 +64,8 @@ ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
+}
+
+li {
+  margin-bottom: 16px;
 }
